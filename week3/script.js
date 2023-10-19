@@ -10,11 +10,15 @@ const intervalTime = 2000; // Change this to your desired time interval
 // 4. Create a function that populates the images array with image paths
 function createImageList() {
   // Add image paths to the 'images' array
-  images.push('image1.jpg');
-  images.push('image2.jpg');
-  images.push('image3.jpg');
-  images.push('image4.jpg');
+  images.push('images/1.jpeg');
+  images.push('images/2.jpeg');
+  images.push('images/3.jpeg');
+  images.push('images/4.jpeg');
   // Add more image paths as needed
+  images.push('images/5.jpeg');
+  images.push('images/6.jpeg');
+  images.push('images/7.jpeg');
+  images.push('images/8.jpeg');
 }
 
 // Call the function to create the image list
